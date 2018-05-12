@@ -1,0 +1,24 @@
+_repo: The-Story-of-Madras_26621
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barlow, Glyn
+    gutenberg_agent_id: '32127'
+    url: http://www.gutenberg.org/2009/agents/32127
+description: ''
+gutenberg_issued: '2008-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Madras (India)'
+- !lcc 'DS'
+title: The Story of Madras
+url: http://www.gutenberg.org/ebooks/26621
