@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32127'
     url: http://www.gutenberg.org/2009/agents/32127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26621#The-Story-of-Madras
 gutenberg_issued: '2008-09-14'
 gutenberg_type: Text
 identifiers:
